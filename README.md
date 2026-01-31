@@ -1,5 +1,13 @@
 Welcome! This portfolio showcases my projects across **data engineering, analytics engineering, and data science**, demonstrating end-to-end workflows, production-ready pipelines, and business-oriented analysis.
 
+## TL;DR
+**Full-stack analytics & data engineering professional**  
+- SQL & Snowflake: optimized pipelines, clustered tables, scheduled tasks  
+- Python & R: ETL, data cleaning, statistical modeling, and visualization  
+- JSON & ETL: transforming raw data into production-ready formats  
+- Business-focused: designed workflows for reporting (SSRS/dashboards) with measurable impact (~40% runtime improvement)  
+- Research-backed: Doctoral dissertation in private lending analytics  
+
 ---
 
 ## Portfolio Overview
